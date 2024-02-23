@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enem Barjo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Programmer from India</h3>
 
 - 📫 How to reach me **enembarjo03@gmail.com**
 
@@ -13,3 +13,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nm003&show_icons=true&locale=en&layout=compact" alt="nm003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nm003&show_icons=true&locale=en" alt="nm003" /></p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Enem.png" alt="TryHackMe">
