@@ -2,7 +2,7 @@
 俺はインドから大学生です。
 ## Connect with me
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](enembarjo03@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:enembarjo03@gmail.com)
 ## Skills
 
 #### Programming Languages
