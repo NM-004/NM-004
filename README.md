@@ -3,13 +3,30 @@
 ## Connect with me
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:enembarjo03@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/enem-barjo)
 ## Skills
 
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://cplusplus.com/)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://cplusplus.com/)
 
+#### Tools
+[![My Skills](https://skillicons.dev/icons?i=arduino)]()
+[![My Skills](https://skillicons.dev/icons?i=blender)]()
+[![My Skills](https://skillicons.dev/icons?i=docker)]()
+[![My Skills](https://skillicons.dev/icons?i=git)]()
+[![My Skills](https://skillicons.dev/icons?i=md)]()
+[![My Skills](https://skillicons.dev/icons?i=neovim)]()
+[![My Skills](https://skillicons.dev/icons?i=npm)]()
+[![My Skills](https://skillicons.dev/icons?i=powershell)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode)]()
 
+#### Operating System
+[![My Skills](https://skillicons.dev/icons?i=kali)]()
+[![My Skills](https://skillicons.dev/icons?i=linux)]()
+[![My Skills](https://skillicons.dev/icons?i=windows)]()
 ## Others
 #### TryHackMe
 ![](https://tryhackme-badges.s3.amazonaws.com/Enem.png)
