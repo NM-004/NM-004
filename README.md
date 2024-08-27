@@ -7,10 +7,11 @@
 ## Skills
 
 #### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c)]()
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com/)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://cplusplus.com/)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://cplusplus.com/)
+[![My Skills](https://skillicons.dev/icons?i=bash)]()
+[![My Skills](https://skillicons.dev/icons?i=java)]()
 
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=arduino)]()
