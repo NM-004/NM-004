@@ -13,6 +13,11 @@
 [![My Skills](https://skillicons.dev/icons?i=bash)]()
 [![My Skills](https://skillicons.dev/icons?i=java)]()
 
+#### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql)]()
+
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=arduino)]()
 [![My Skills](https://skillicons.dev/icons?i=blender)]()
