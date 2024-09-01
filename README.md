@@ -14,6 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java)]()
 
 #### Backend
+[![My Skills](https://skillicons.dev/icons?i=npm)]()
 [![My Skills](https://skillicons.dev/icons?i=nodejs)]()
 [![My Skills](https://skillicons.dev/icons?i=mongodb)]()
 [![My Skills](https://skillicons.dev/icons?i=mysql)]()
