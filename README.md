@@ -12,6 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=bash)]()
 [![My Skills](https://skillicons.dev/icons?i=java)]()
+[![My Skills](https://skillicons.dev/icons?i=lua)]()
 
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=npm)]()
@@ -32,7 +33,6 @@
 
 #### Operating System
 [![My Skills](https://skillicons.dev/icons?i=kali)]()
-[![My Skills](https://skillicons.dev/icons?i=linux)]()
 [![My Skills](https://skillicons.dev/icons?i=windows)]()
 ## Others
 #### TryHackMe
