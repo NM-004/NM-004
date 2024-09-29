@@ -36,7 +36,7 @@
 [![My Skills](https://skillicons.dev/icons?i=windows)]()
 ## Others
 #### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/NM04.png" alt="TryHackMe">
+![](https://tryhackme-badges.s3.amazonaws.com/NM04.png)
 
 #### Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Enem04?theme=nord&font=Noto%20Sans%20Armenian)
