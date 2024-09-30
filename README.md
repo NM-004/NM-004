@@ -38,7 +38,7 @@
 #### TryHackMe
 ![https://tryhackme-badges.s3.amazonaws.com/NM04.png](https://tryhackme-badges.s3.amazonaws.com/NM04.png?3))
 
-![tryhackme stats](https://raw.githubusercontent.com/NM04/NM04/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/NM-004/NM-004/master/assets/thm_propic.png)
 
 #### Leetcode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Enem04?theme=nord&font=Noto%20Sans%20Armenian)
